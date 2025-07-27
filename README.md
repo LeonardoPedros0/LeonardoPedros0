@@ -40,15 +40,19 @@ Análise meteorológica integrada com previsão de vazões e energia (Newave, De
 
 ## 🧪 Projetos em destaque
 
-🔹 **[Previsão de tempo como responsabilidade social](#)**  
+🔹 **[Comparação de Previsões de Nowcasting: Pysteps e Rainymotion](https://github.com/LeonardoPedros0/Nowcast-py)**
+Avaliar e comparar a precisão das previsões de chuva em curto prazo geradas pelas bibliotecas Python Pysteps e Rainymotion.
+Tecnologias: wradlib · pyart · pysteps · rainymotion · cartopy · matplotlib · numpy
+
+🔹 **[Previsão de tempo como responsabilidade social](https://github.com/LeonardoPedros0/AlertaMS)**  
 Envio automatizado de alertas baseados em dados ECMWF, GFS, JMA e DWD.  
 Tecnologias: Python · Web Scraping · Visualização · Saúde & Clima
 
-🔹 **[Climatologia da Estação do IAG/USP](#)**  
+🔹 **[Climatologia da Estação do IAG/USP](/)**  
 Padronização de dados históricos (desde 1933) e criação de gráficos interativos.  
 Tecnologias: Python · Pandas · Visualização · Dados históricos
 
-🔹 **[Extremos Climáticos em SP](#)**  
+🔹 **[Extremos Climáticos em SP](https://github.com/LeonardoPedros0/precipt-ANA-INMET)**  
 Análise com índices da OMM para identificar eventos extremos em diversas regiões do estado.  
 Tecnologias: Python · Estatística · Séries Temporais
 
