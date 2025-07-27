@@ -40,15 +40,15 @@ Análise meteorológica integrada com previsão de vazões e energia (Newave, De
 
 ## 🧪 Projetos em destaque
 
-🔹 **[Comparação de Previsões de Nowcasting: Pysteps e Rainymotion](https://github.com/LeonardoPedros0/Nowcast-py)**
-Avaliar e comparar a precisão das previsões de chuva em curto prazo geradas pelas bibliotecas Python Pysteps e Rainymotion.
+🔹 **[Comparação de Previsões de Nowcasting: Pysteps e Rainymotion](https://github.com/LeonardoPedros0/Nowcast-py)**  
+Avaliar e comparar a precisão das previsões de chuva em curto prazo geradas pelas bibliotecas Python Pysteps e Rainymotion.  
 Tecnologias: wradlib · pyart · pysteps · rainymotion · cartopy · matplotlib · numpy
 
 🔹 **[Previsão de tempo como responsabilidade social](https://github.com/LeonardoPedros0/AlertaMS)**  
 Envio automatizado de alertas baseados em dados ECMWF, GFS, JMA e DWD.  
-Tecnologias: Python · Web Scraping · Visualização · Saúde & Clima
+Tecnologias: Python · Web Scraping · Visualização
 
-🔹 **[Climatologia da Estação do IAG/USP](/)**  
+🔹 **[Climatologia da Estação do IAG/USP](#)**  
 Padronização de dados históricos (desde 1933) e criação de gráficos interativos.  
 Tecnologias: Python · Pandas · Visualização · Dados históricos
 
@@ -65,7 +65,7 @@ Tecnologias: Python · Estatística · Séries Temporais
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
-📦 Pandas · Xarray · Matplotlib · Seaborn · Plotly · Dash  
+📦 Pandas · Xarray · Matplotlib · Seaborn · Plotly  
 📡 GFS · ECMWF · DWD · INMET · Copernicus · NOAA  
 📍 Dados geoespaciais · Séries temporais ambientais
 
@@ -74,7 +74,7 @@ Tecnologias: Python · Estatística · Séries Temporais
 ## 📬 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/leonardo-pedroso-9a73b1169)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/LeonardoPedros0)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/LeonardoPedros0)  
 📧 **l.pedroso@usp.br**
 
 ---
